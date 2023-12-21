@@ -42,11 +42,28 @@ This project is a URL shortener service developed using Node.js, Express.js, and
    npm start
 
 API Endpoints
-Endpoint 1: Description (e.g., POST /url/shortener)
-Endpoint 2: Description (e.g., GET /url/get/:short)
-Endpoint 3: Description (e.g., POST /user/add)
-Endpoint 4: Description (e.g., GET /user/getAll)
-Endpoint 5: Description (e.g., POST /user/signIn)
-Endpoint 6: Description (e.g., POST /user/signOut)
+URL Shortener Endpoint:
 
+Endpoint: POST /url/shortener
+Description: Endpoint description here
+Get Original URL Endpoint:
+
+Endpoint: GET /url/get/:short
+Description: Endpoint description here
+User Registration Endpoint:
+
+Endpoint: POST /user/add
+Description: Endpoint description here
+Get All Users Endpoint:
+
+Endpoint: GET /user/getAll
+Description: Endpoint description here
+User Sign In Endpoint:
+
+Endpoint: POST /user/signIn
+Description: Endpoint description here
+User Sign Out Endpoint:
+
+Endpoint: POST /user/signOut
+Description: Endpoint description here
 
