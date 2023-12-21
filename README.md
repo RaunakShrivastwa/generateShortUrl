@@ -36,13 +36,9 @@ This project is a URL shortener service developed using Node.js, Express.js, and
    cd <your_project_name>
 
 2. Install Dependencies:
-
-   ```bash
    npm install
 
 3. Start Server:
-
-   ```bash
    npm start
 
 API Endpoints
