@@ -32,7 +32,7 @@ This project is a URL shortener service developed using Node.js, Express.js, and
 To run this project locally, follow these steps:
 
 1. **Clone Repository:**
-git clone [https://github.com/RaunakShrivastwa/SaveLife.git](https://github.com/RaunakShrivastwa/generateShortUrl)
+git clone (https://github.com/RaunakShrivastwa/generateShortUrl)
 
 2. **Setup Backend:**
 - Navigate to the `backend` directory.
@@ -55,7 +55,6 @@ git clone [https://github.com/RaunakShrivastwa/SaveLife.git](https://github.com/
  - Get Original  : `localhost:3000/url/:shortner`
 
    ## Complete Documentation
-
+https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL)https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL
    ```bash
-  [ git clone https://github.com/<your_github_username>/<your_project_name>.git
-   cd <your_project_name>](https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL)https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL
+   
