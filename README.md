@@ -29,41 +29,33 @@ This project is a URL shortener service developed using Node.js, Express.js, and
 
 ## Getting Started
 
-1. Clone the repository:
+To run this project locally, follow these steps:
+
+1. **Clone Repository:**
+git clone [https://github.com/RaunakShrivastwa/SaveLife.git](https://github.com/RaunakShrivastwa/generateShortUrl)
+
+2. **Setup Backend:**
+- Navigate to the `backend` directory.
+- Install dependencies: `npm install`.
+- Start the server: `npm start`.
+
+## Usage
+
+- Access the website via `localhost:3000` in your browser.
+- Users can log in using their preferred authentication method.
+- Explore ShortUrl, GetAllUrl, Getting Original Url
+  
+## API Endpoint
+ - Create User   : `localhost:3000/user/add`
+ - GetAll User   : `localhost:3000/user/getAll`
+ - SignIn User   : `localhost:3000/user/signIn`
+ - SignOut User  : `localhost:3000/user/signOut`
+ - Short Url     : `localhost:3000/url/shortner`
+ - Get All Url   : `localhost:3000/url/getAll`
+ - Get Original  : `localhost:3000/url/:shortner`
+
+   ## Complete Documentation
 
    ```bash
-   git clone https://github.com/<your_github_username>/<your_project_name>.git
-   cd <your_project_name>
-
-2. Install Dependencies:
-   npm install
-
-3. Start Server:
-   npm start
-
-API Endpoints
-URL Shortener Endpoint:
-
-Endpoint: POST /url/shortener
-Description: Endpoint description here
-Get Original URL Endpoint:
-
-Endpoint: GET /url/get/:short
-Description: Endpoint description here
-User Registration Endpoint:
-
-Endpoint: POST /user/add
-Description: Endpoint description here
-Get All Users Endpoint:
-
-Endpoint: GET /user/getAll
-Description: Endpoint description here
-User Sign In Endpoint:
-
-Endpoint: POST /user/signIn
-Description: Endpoint description here
-User Sign Out Endpoint:
-
-Endpoint: POST /user/signOut
-Description: Endpoint description here
-
+  [ git clone https://github.com/<your_github_username>/<your_project_name>.git
+   cd <your_project_name>](https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL)https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL
