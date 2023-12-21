@@ -34,3 +34,23 @@ This project is a URL shortener service developed using Node.js, Express.js, and
    ```bash
    git clone https://github.com/<your_github_username>/<your_project_name>.git
    cd <your_project_name>
+
+2. Install Dependencies:
+
+   ```bash
+   npm install
+
+3. Start Server:
+
+   ```bash
+   npm start
+
+API Endpoints
+Endpoint 1: Description (e.g., POST /url/shortener)
+Endpoint 2: Description (e.g., GET /url/get/:short)
+Endpoint 3: Description (e.g., POST /user/add)
+Endpoint 4: Description (e.g., GET /user/getAll)
+Endpoint 5: Description (e.g., POST /user/signIn)
+Endpoint 6: Description (e.g., POST /user/signOut)
+
+
