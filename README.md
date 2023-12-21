@@ -54,7 +54,6 @@ git clone (https://github.com/RaunakShrivastwa/generateShortUrl)
  - Get All Url   : `localhost:3000/url/getAll`
  - Get Original  : `localhost:3000/url/:shortner`
 
+
    ## Complete Documentation
-https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL)https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL
-   ```bash
-   ff
+  `https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL)https://documenter.getpostman.com/view/20743504/2s9Ykq7gKL`
